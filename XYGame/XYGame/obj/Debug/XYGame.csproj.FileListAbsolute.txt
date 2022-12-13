@@ -1,0 +1,10 @@
+C:\Users\in-209-08\source\repos\XYGame\XYGame\obj\Debug\XYGame.csproj.AssemblyReference.cache
+C:\Users\in-209-08\source\repos\XYGame\XYGame\obj\Debug\XYGame.Form1.resources
+C:\Users\in-209-08\source\repos\XYGame\XYGame\obj\Debug\XYGame.Properties.Resources.resources
+C:\Users\in-209-08\source\repos\XYGame\XYGame\obj\Debug\XYGame.csproj.GenerateResource.cache
+C:\Users\in-209-08\source\repos\XYGame\XYGame\obj\Debug\XYGame.csproj.CoreCompileInputs.cache
+C:\Users\in-209-08\source\repos\XYGame\XYGame\bin\Debug\XYGame.exe.config
+C:\Users\in-209-08\source\repos\XYGame\XYGame\bin\Debug\XYGame.exe
+C:\Users\in-209-08\source\repos\XYGame\XYGame\bin\Debug\XYGame.pdb
+C:\Users\in-209-08\source\repos\XYGame\XYGame\obj\Debug\XYGame.exe
+C:\Users\in-209-08\source\repos\XYGame\XYGame\obj\Debug\XYGame.pdb
